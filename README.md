@@ -6,13 +6,13 @@ To use:
 1. Place both scripts in a folder of your choice, then add two folders at the same level as the python files: One called "CSVs" and one called "Replay Files" 
 
 2. In the replay files folder create two folders: "Checked Replays" and "Unchecked Replays"
-```
-             <Parent Directory>
-               /             \
-          Replay Files       CSVs
-           /       \
-Checked Replays  Unchecked Replays
-```
+  ```
+               <Parent Directory>
+                 /             \
+            Replay Files       CSVs
+             /       \
+  Checked Replays  Unchecked Replays
+  ```
 
 
 3. Place replays you want scanned by the parser in the "Unchecked Replays" folder, and when done move them to the "Checked Replays" folder. (This move might be automated if I get around to it but I probably won't since the file count is manageable right now and I like playing the game more than I like coding.)
