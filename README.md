@@ -1,4 +1,5 @@
 Made for use with GTFO replays made from randomuserhi's GTFO replay mod: https://github.com/randomuserhi/GTFOReplay
+
 You must have python3 installed for these scripts to work https://www.python.org/downloads/
 
 To use:
